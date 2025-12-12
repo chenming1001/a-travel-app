@@ -53,6 +53,8 @@ npm install
 npm run dev
 # 访问 http://localhost:5173
 ```
+### 3\. api设置
+打开backend的.env文件，去通义千问和高德地图申请自己的api并替换
 ## 项目结构
 ```
 WanderAI/
